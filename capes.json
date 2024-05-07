@@ -7,7 +7,9 @@
     "music_artist",
     "staff",
     "donator",
-    "translator"
+    "translator",
+    "builder",
+    "dt10"
   ],
   "34f4a6ac-dc4c-4bb1-ae25-21cbe0ce5f5d": [
     "pixel_artist"
@@ -37,6 +39,7 @@
     "fuchsia"
   ],
   "551cd963-4e28-4c7b-b8fd-ec003fb98b2c": [
-    "builder"
+    "builder",
+    "dt10"
   ]
 }
